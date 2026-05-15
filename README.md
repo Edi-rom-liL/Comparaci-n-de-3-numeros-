@@ -1,1 +1,4 @@
-# Comparaci-n-de-3-numeros-
+#include<iostream>
+
+   using namesapce std;
+   
